@@ -3,7 +3,7 @@ This is my first Java GUI program using Swing and Awt.
 
 ## Desciption:
 When you run the Program a windows Tab opens <br/>
-You have to put the name of the site in textfield and click on the Find IP button <br/>
+You have to put the name of the site in textfield and click on the `Find IP` button <br/>
 Then the Ip of the site would be shown <br/>
 
 <img width="292" alt="Capture1" src="https://user-images.githubusercontent.com/44942652/95052886-4b0c5200-070d-11eb-8704-816c0c1a6873.PNG">
